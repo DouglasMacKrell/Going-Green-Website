@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.Home-logo {
+  padding-top: 10%;
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(to bottom right, aqua, rgb(101, 101, 255));
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
